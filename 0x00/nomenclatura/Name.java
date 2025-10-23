@@ -8,7 +8,6 @@ public class Name {
     //A
     public List<Account> AccountList;
 
-
     // Sem Prefixos
     //B
     public void deleteUser(Name.User user){};
@@ -25,7 +24,6 @@ public class Name {
     // Uma palavra por conceito
     //B
     public saveUser(){}; createAccount(){}; generateContract(){};
-
 
     //Use constants, enums instead of magic numbers, abbreviations
     //B    
