@@ -19,7 +19,7 @@ public class Functions {
     //A
     public void saveUser(User user){};
     
-
+    //  No side effects
     //B
     public User saveUser(User user){
         return userRepository.save(user);
