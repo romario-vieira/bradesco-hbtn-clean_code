@@ -20,7 +20,7 @@ public class Name {
     public void saveCar(){};
     // Uma palavra por conceito
     //B
-    public saveUser(){}; createAccount(){}; generateContract(){};
+    public saveUser(){}; createAccount(){}; generateContract(){}; 
     //Use constants, enums instead of magic numbers, abbreviations
     //B    
     public final int DAYS_IN_YEAR = 360;
