@@ -21,8 +21,8 @@ public class Name {
     public class TableRepresent {};
     public void saveCar(){};
     // Uma palavra por conceito
-    //B
-    public saveUser(){}; createAccount(){}; generateContract(){}; 
+    //A
+    public saveUser(){}; saveAccount(){}; saveContract(){};
     //Use constants, enums instead of magic numbers, abbreviations
     //B    
     public final int DAYS_IN_YEAR = 360;
