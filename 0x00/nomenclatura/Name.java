@@ -20,7 +20,6 @@ public class Name {
     //A
     public class TableRepresent {};
     public void saveCar(){};
-
     // Uma palavra por conceito
     //B
     public saveUser(){}; createAccount(){}; generateContract(){};
